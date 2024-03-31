@@ -1,13 +1,15 @@
 package main
 
+import "fmt"
+
 func main() {
 
-	// fmt.Printf("\n\n----------------\n")
+	fmt.Printf("\n\n----------------\n")
 
-	// entry := "abcdefaghbjkclmn"
-	// replaceDuplicatedWith("_", entry)
+	entry := "abcdefaghbjkclmn"
+	replaceDuplicatedWith("_", entry)
 
-	// repeatCount(entry)
+	repeatCount(entry)
 
 }
 

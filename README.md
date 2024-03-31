@@ -4,6 +4,22 @@
 
 ## Test 1
 Testing and __Benchmark__ about verify if a key exists in a map or just add w/out checking.
+
+
+### Testing
+
+**Method:** replaceDuplicatedWith
+Return a new string replacing the duplicated characted with `replacech`.
+
+**Method:** repeatCount
+Return a how much a chatacted is found in an `entry`.
+
+
+
+
+
+### Benchmark
+
 Method `RepeatCount` is faster than `RepeatCountIfExist`
 
 __Result__
